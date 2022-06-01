@@ -1,0 +1,49 @@
+
+@font-face {
+    font-family: Open_Sans;
+    src: url('../Fuentes/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
+}
+
+@font-face {
+    font-family: Cyrene Regular;
+    src: url('../Fuentes/Cyrene\ Regular.otf');
+}
+h1 { 
+    color: rgb(0, 0, 0);
+    font-family: Cyrene Regular;
+    font-size: 20px;
+ font-weight: 200;
+ text-transform: lowercase;
+ font-style: normal;
+ padding: 0;
+ margin: 0;
+}
+
+h2 { 
+    font-family: Cyrene Regular;
+    font-weight: 300;
+    font-size: 50px;
+    letter-spacing: 7px;
+text-transform: uppercase;
+text-align: left;
+}
+li{
+    display: inline-block;
+   margin-left: 150px;
+   
+}
+ul{
+ text-align: right;
+ margin-right: 50px;
+}
+p {
+    font-family:Open_Sans ;
+    font-weight: 200;
+}
+.piedepag{
+    font-family:Open_Sans;
+    font-weight: 200;
+    font-size: 22px;
+    text-align: left;
+    line-height: 5px;
+}
